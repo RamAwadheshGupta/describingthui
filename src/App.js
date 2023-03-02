@@ -2,7 +2,7 @@ import './App.css';
 import Profile from './components/Profile';
 import TodoList from './components/TodoList';
 import TodoCurlyBraces from './components/JSX_with_curly _braces';
-
+import PassingPropsToComponent from './components/PassingPropsToComponent';
 function Profiles()
 {
   return (
@@ -28,6 +28,7 @@ function Gallery()
       <Profile />
       <TodoList />
       <TodoCurlyBraces />
+      <PassingPropsToComponent />
     </>
   );
 }
