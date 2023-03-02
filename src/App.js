@@ -1,6 +1,7 @@
 import './App.css';
 import Profile from './components/Profile';
 import TodoList from './components/TodoList';
+import TodoCurlyBraces from './components/JSX_with_curly _braces';
 
 function Profiles()
 {
@@ -26,6 +27,7 @@ function Gallery()
       <Profile />
       <Profile />
       <TodoList />
+      <TodoCurlyBraces />
     </>
   );
 }
