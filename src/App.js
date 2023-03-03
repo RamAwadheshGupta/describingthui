@@ -3,6 +3,7 @@ import Profile from './components/Profile';
 import TodoList from './components/TodoList';
 import TodoCurlyBraces from './components/JSX_with_curly _braces';
 import PassingPropsToComponent from './components/PassingPropsToComponent';
+import ConditionalRendering from './components/ConditionalRndering';
 function Profiles()
 {
   return (
@@ -29,6 +30,7 @@ function Gallery()
       <TodoList />
       <TodoCurlyBraces />
       <PassingPropsToComponent />
+      <ConditionalRendering />
     </>
   );
 }
