@@ -1,4 +1,4 @@
-const people = [{
+export const people = [{
     id: 0,
     name: 'Creola Katherine Johnson',
     profession: 'mathematician',
@@ -23,7 +23,7 @@ const people = [{
     accomplishment: 'pioneering cortisone drugs, steroids and birth control pills',
     imageId: 'IOjWm71'
 }, {
-    id: 2,
+    id: 4,
     name: 'Subrahmanyan Chandrasekhar',
     profession: 'astrophysicist',
     accomplishment: 'white dwarf star mass calculations',
