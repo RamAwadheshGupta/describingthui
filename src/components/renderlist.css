@@ -1,0 +1,17 @@
+.ListItems {
+    list-style-type: none;
+    padding: 0px 10px;
+}
+
+.itemslist {
+    margin: 10px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 2fr;
+    border: 1px solid rgb(141, 138, 138);
+    border-radius: 20px;
+}
+
+.descripts {
+    margin-top: -1rem;
+}
