@@ -5,6 +5,7 @@ import TodoCurlyBraces from './components/JSX_with_curly _braces';
 import PassingPropsToComponent from './components/PassingPropsToComponent';
 import ConditionalRendering from './components/ConditionalRndering';
 import RenderingLists from './components/RenderingLists';
+import KeepingComponentsPure from './components/KeepingComponentsPure ';
 function Profiles()
 {
   return (
@@ -33,6 +34,7 @@ function Gallery()
       <PassingPropsToComponent />
       <ConditionalRendering />
       <RenderingLists />
+      <KeepingComponentsPure />
     </>
   );
 }
