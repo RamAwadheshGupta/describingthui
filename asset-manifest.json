@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/describingthui/static/css/main.d3017334.css",
+    "main.js": "/describingthui/static/js/main.7f99aacb.js",
+    "static/js/787.29cc6ec6.chunk.js": "/describingthui/static/js/787.29cc6ec6.chunk.js",
+    "index.html": "/describingthui/index.html",
+    "main.d3017334.css.map": "/describingthui/static/css/main.d3017334.css.map",
+    "main.7f99aacb.js.map": "/describingthui/static/js/main.7f99aacb.js.map",
+    "787.29cc6ec6.chunk.js.map": "/describingthui/static/js/787.29cc6ec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3017334.css",
+    "static/js/main.7f99aacb.js"
+  ]
+}
