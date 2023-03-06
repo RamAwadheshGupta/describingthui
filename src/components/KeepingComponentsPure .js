@@ -9,7 +9,7 @@ function Cup()
 function TeaSet({ guests })
 {
     return (
-        <h2 style={{ color: 'red' }}> Tea cup for guest # {guests} </h2 >
+        <h2 style={{ color: 'red' }}> Tea cup for guest Number # {guests} </h2 >
     );
 }
 
